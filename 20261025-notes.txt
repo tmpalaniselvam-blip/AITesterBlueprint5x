@@ -1,0 +1,88 @@
+https://www.sdetclub.com/c/ai-tester-5x-only
+https://docs.google.com/forms/d/e/1FAIpQLSdr8F8m7jmIl6pdqezE0LZ8kphE2-ZpUTjBc9YxSBbsUjONaA/viewform
+Pramod Dutta
+to
+Everyone
+11:36:34 AM
+
+https://www.sdetclub.com/c/ai-tester-5x-only/doubt-25-oct-skill-file
+
+
+ramod Dutta
+to
+Everyone
+1:05:57 PM
+
+https://github.com/new
+Pramod Dutta
+to
+Everyone
+1:14:28 PM
+
+https://sdet.live/AI-5x_SDET_Access
+
+pls Register from above link with the same email with that you have Registered in the course  and  pls Message me when it's Done and sent me your email address on this WhatsApp num +91 92156 59969 so i Can add you in AI-5x SDET Community.
+
+SDET Community, SDET Platform and SDET club are The Same Platform.
+Pramod Dutta
+to
+Everyone
+1:15:53 PM
+
+https://github.com/PramodDutta/AITesterBlueprint5x
+https://github.com/PramodDutta/AITesterBlueprint5x/blob/main/Chapter_00_SKILL_Basics/01_advance-skills/testplan-creator-skill_a/SKILL.md
+https://app.eraser.io/workspace/4T1SjnqdXzNr0lmUBdEC?origin=share
+https://github.com/PramodDutta/skillmasterclass/tree/main/skillmasterclass/skills
+Me
+to
+Hosts and Panelists
+
+Pramod Dutta
+to
+Everyone
+1:18:44 PM
+
+Class Recording will be available around 3 PM and you will get email how to access the class recording
+Pramod Dutta
+to
+Everyone
+1:18:44 PM
+
+Class Recording will be available around 3 PM and you will get email how to access the class recording
+
+https://sdet.live/AI-5x_SDET_Access
+
+pls Register from above link with the same email with that you have Registered in the course  and  pls Message me when it's Done and sent me your email address on this WhatsApp num +91 92156 59969 so i Can add you in AI-5x SDET Community.
+
+SDET Community, SDET Platform and SDET club are The Same Platform.
+guys pls follow about Instruction and in some time you will get the access so pls wait for that
+
+https://sdet.live/AI-5x_SDET_Access
+tmpalaniselvam@gmail.com
+Happiest1@3
+
+Response
+https://github.com/tmpalaniselvam-blip/AITesterBlueprint5x 
+https://github.com/tmpalaniselvam-blip/AITesterBlueprint5x.git
+
+Quick setup — if you’ve done this kind of thing before
+or
+HTTPS
+
+
+SSH
+
+
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+echo "# AITesterBlueprint5x" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tmpalaniselvam-blip/AITesterBlueprint5x.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/tmpalaniselvam-blip/AITesterBlueprint5x.git
+git branch -M main
+git push -u origin main
