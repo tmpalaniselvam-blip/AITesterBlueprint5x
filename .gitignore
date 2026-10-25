@@ -1,0 +1,6 @@
+node_modules/
+src/test-results/*
+!src/test-results/.gitkeep
+src/screenshots/*
+!src/screenshots/.gitkeep
+.env
